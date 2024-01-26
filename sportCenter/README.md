@@ -2,8 +2,10 @@
 
 # Masaüstü Görünüm:
 
-![Masaüstü Görünüm](https://github.com/cgezginci/sporCenter/assets/143842154/05708495-c2b0-4fdf-ba50-f973078cfcd2)
+![Masaüstü Görünüm](https://github.com/cgezginci/sportCenterProject/assets/143842154/64ca31b3-bdea-47aa-b4b4-a18894701bcf)
+
 
 # Mobil Görünüm:
 
-![Mobil Görünüm](https://github.com/cgezginci/sporCenter/assets/143842154/63697ab3-558c-4178-9416-9edd88fb1d0e)
+![Mobil Görünüm](https://github.com/cgezginci/sportCenterProject/assets/143842154/ee6cd652-83ba-4a26-a21f-6e4b19d6ba4d)
+
